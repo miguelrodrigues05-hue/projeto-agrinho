@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho - Agricultura Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Agrinho: O Futuro da Agricultura</h1>
+        <p>Cultivando ideias sustentáveis para o Ensino Médio</p>
+    </header>
+
+    <nav>
+        <a href="#sobre">Sobre o Projeto</a>
+        <a href="#pilares">Pilares da Sustentabilidade</a>
+        <a href="#importancia">Importância</a>
+    </nav>
+
+    <main>
+        <section id="sobre">
+            <h2>Sobre o Nosso Projeto</h2>
+            <p>Este site foi desenvolvido para o projeto Agrinho, com o objetivo de conscientizar a comunidade escolar sobre a importância da <strong>agricultura sustentável</strong>. Nosso foco é mostrar como a produção de alimentos pode caminhar lado a lado com a preservação do meio ambiente.</p>
+        </section>
+
+        <section id="pilares">
+            <h2>Os Pilares da Agricultura Sustentável</h2>
+            <div class="cards-container">
+                <div class="card">
+                    <h3>Preservação Ambiental</h3>
+                    <p>Uso consciente da água, rotação de culturas e redução do uso de defensivos químicos para proteger o solo e a biodiversidade.</p>
+                </div>
+                <div class="card">
+                    <h3>Viabilidade Econômica</h3>
+                    <p>Garantir que o agricultor tenha lucro e consiga manter sua produção ativa a longo prazo, utilizando tecnologias limpas.</p>
+                </div>
+                <div class="card">
+                    <h3>Responsabilidade Social</h3>
+                    <p>Promover condições de trabalho justas e seguras para os trabalhadores do campo e valorizar as comunidades locais.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="importancia">
+            <h2>Por que isso importa?</h2>
+            <p>Até 2050, a população mundial crescerá drasticamente. Precisamos produzir mais alimentos, mas sem destruir os recursos naturais do nosso planeta. A agricultura sustentável não é apenas uma escolha, é a única saída para o futuro.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Projeto Agrinho - Desenvolvido por Aluno do Ensino Médio</p>
+    </footer>
+
+</body>
+</html>
